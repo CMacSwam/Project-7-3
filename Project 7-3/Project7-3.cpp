@@ -1,3 +1,11 @@
+/*
+*Author: Chase McCluskey
+*Date: 10/17/2024
+*File: LabProblem7.3
+*
+* Description: Finding the first, last and total number of digits in an integer 
+*/
+
 #include <iostream>
 
 using namespace std;
